@@ -16,7 +16,7 @@ to a dynamic development team. </h3>
 
 - 📫 How to reach me **jayaprakashbommisetty2580@gmail.com**
 
-- 📄 Know about my experiences <a href="resume.pdf">Resume</a>
+- 📄 Know about my experiences <a href="prkshnarayan/resume.pdf">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
