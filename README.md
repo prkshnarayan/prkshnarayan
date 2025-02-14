@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Bommisetty Jaya Prakash</h1>
 <h3 align="center">A passionate full stack developer</h3>
+<h3 align="center"> Detail-oriented and motivated software engineer. Proficient in a programming language such as Python, with hands-on 
+experience in web development and database management. Experienced in collaborative environments through 
+academic projects, internships and training. I am eager to contribute my problem-solving skills and technical knowledge 
+to a dynamic development team. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prkshnarayan&label=Profile%20views&color=0e75b6&style=flat" alt="prkshnarayan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prkshnarayan" alt="prkshnarayan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/jayaprakash35" target="blank"><img src="https://img.shields.io/twitter/follow/jayaprakash35?logo=twitter&style=for-the-badge" alt="jayaprakash35" /></a> </p>
 
 - 🌱 I’m currently learning **Django, Flask**
 
