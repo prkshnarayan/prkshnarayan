@@ -14,7 +14,7 @@ to a dynamic development team. </h3>
 
 - 👨‍💻 All of my projects are available at <a href="https://prkshnarayan.github.io/Portfolio/">PortFolio</a>
 
-- 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&to=jayaprakashbommisetty2580@gmail.com">jayaprakashbommisetty2580@gmail.com</a>
+- 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&to=jayaprakashbommisetty2580@gmail.com" target="_blank">jayaprakashbommisetty2580@gmail.com</a>
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1w9AtnqF_8L72ODpWq_EpphO-19KMVnH_/view?pli=1">Resume</a>
 
