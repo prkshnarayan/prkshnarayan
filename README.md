@@ -12,7 +12,7 @@ to a dynamic development team. </h3>
 
 - 🌱 I’m currently learning **Django, Flask**
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+- 👨‍💻 All of my projects are available at <a href="https://prkshnarayan.github.io/Portfolio/">PortFolio</a>
 
 - 📫 How to reach me **jayaprakashbommisetty2580@gmail.com**
 
