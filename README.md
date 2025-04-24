@@ -16,7 +16,7 @@ to a dynamic development team. </h3>
 
 - 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&to=jayaprakashbommisetty2580@gmail.com" target="_blank">jayaprakashbommisetty2580@gmail.com</a>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1RhXJROJgLWwTes7fFC4b-7q2_S3Hx-V8/view?usp=drive_link">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1yPwbzeZ3b0BDjF35ejxRYHnzu4ad4eSL/view?usp=drive_link">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
