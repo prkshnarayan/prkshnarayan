@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Python, Django Framework, PowerBi**
 
-- 👨‍💻 All of my projects are available at [https://prkshnarayan.github.io/Portfolio/](https://prkshnarayan.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://prkshnarayan.github.io/Portfolio/)
 
 - 📫 How to reach me **jayaprakashbommisetty2580@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZQscCrAa6FblNYo3oWaGjUbTCZTS3sLG/view?usp=sharing](https://drive.google.com/file/d/1ZQscCrAa6FblNYo3oWaGjUbTCZTS3sLG/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZQscCrAa6FblNYo3oWaGjUbTCZTS3sLG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
