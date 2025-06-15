@@ -16,26 +16,13 @@
 
 ## ✨ Features
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; width: 280px;">
-    <h3>📱 Responsive Design</h3>
-    <p>Works seamlessly on desktop, tablet, and mobile devices</p>
-  </div>
-  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; width: 280px;">
-    <h3>🖥️ Project Showcase</h3>
-    <p>Displays key projects with descriptions, screenshots, and tech stacks</p>
-  </div>
-  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; width: 280px;">
-    <h3>⚡ Skills Section</h3>
-    <p>Lists technical proficiencies with visual indicators</p>
-  </div>
-  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; width: 280px;">
-    <h3>👤 About Me</h3>
-    <p>Professional background and personal introduction</p>
-  </div>
-  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; width: 280px;">
-    <h3>📬 Contact</h3>
-    <p>Easy ways to connect via email, LinkedIn, or GitHub</p>
-  </div>
+  <ul>
+    <li>📱 Responsive Design</li>
+    <li>🖥️ Project Showcase</li>
+    <li>⚡ Skills Section</li>
+    <li>👤 About Me</li>
+    <li>📬 Contact</li>
+  </ul>
 </div>
 
 ---
