@@ -1,37 +1,58 @@
-<h1 align="center">Hi 👋, I'm Bommisetty Jaya Prakash</h1>
-<h3 align="center">A passionate full stack developer</h3>
-<h3 align="center"> Detail-oriented and motivated software engineer. Proficient in a programming language such as Python, with hands-on 
-experience in web development and database management. Experienced in collaborative environments through 
-academic projects, internships and training. I am eager to contribute my problem-solving skills and technical knowledge 
-to a dynamic development team. </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prkshnarayan&label=Profile%20views&color=0e75b6&style=flat" alt="prkshnarayan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prkshnarayan" alt="prkshnarayan" /></a> </p>
-
-
-- 🌱 I’m currently learning **Django, Flask**
-
-- 👨‍💻 All of my projects are available at <a href="https://prkshnarayan.github.io/Portfolio/">PortFolio</a>
-
-- 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&to=jayaprakashbommisetty2580@gmail.com" target="_blank">jayaprakashbommisetty2580@gmail.com</a>
-
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1yPwbzeZ3b0BDjF35ejxRYHnzu4ad4eSL/view?usp=drive_link">Resume</a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jayaprakash35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayaprakash35" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bommisetty-jaya-prakash-2577b8225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bommisetty-jaya-prakash-2577b8225/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/jayaprakash.bommisetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jayaprakash.bommisetty" height="30" width="40" /></a>
-<a href="https://www.instagram.com/p_r_k_s_h_narayan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/p_r_k_s_h_narayan/" height="30" width="40" /></a>
+<h1 align="center">🌟 Portfolio Website</h1>
+<p align="center">
+  <a href="https://prkshnarayan.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/en-in/power-bi/?WT.mc_id=sitertzn_learntab_docs-card-powerbi&culture=en-us&country=us" target="_blank" rel="noreferrer"> <img src="https://erp.mgt.ncu.edu.tw/wp-content/uploads/2022/06/Power-BI-Logo.png" alt="Power Bi" width="40" height="40"/>
-</p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prkshnarayan&show_icons=true&locale=en&layout=compact" alt="prkshnarayan" /></p>
+## 📌 Overview
+<div align="center">
+  <p>This repository contains my professional portfolio website, showcasing my skills, projects, and experience. Designed to highlight my capabilities, it serves as a central hub for employers, clients, and collaborators to explore my work.</p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prkshnarayan&show_icons=true&locale=en" alt="prkshnarayan" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prkshnarayan&" alt="prkshnarayan" /></p>
+## ✨ Features
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; width: 280px;">
+    <h3>📱 Responsive Design</h3>
+    <p>Works seamlessly on desktop, tablet, and mobile devices</p>
+  </div>
+  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; width: 280px;">
+    <h3>🖥️ Project Showcase</h3>
+    <p>Displays key projects with descriptions, screenshots, and tech stacks</p>
+  </div>
+  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; width: 280px;">
+    <h3>⚡ Skills Section</h3>
+    <p>Lists technical proficiencies with visual indicators</p>
+  </div>
+  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; width: 280px;">
+    <h3>👤 About Me</h3>
+    <p>Professional background and personal introduction</p>
+  </div>
+  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; width: 280px;">
+    <h3>📬 Contact</h3>
+    <p>Easy ways to connect via email, LinkedIn, or GitHub</p>
+  </div>
+</div>
+
+---
+
+## 🛠 Technologies Used
+<div align="center" style="margin-top: 20px;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</div>
+
+---
+
+## 🚀 Setup Instructions
+```bash
+# Clone this repository
+git clone https://github.com/prkshnarayan/Portfolio.git
+
+# Open in browser
+open index.html
