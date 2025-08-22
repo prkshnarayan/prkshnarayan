@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/bommisetty-jaya-prakash-2577b8225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bommisetty-jaya-prakash-2577b8225/" height="30" width="40" /></a>
 <a href="https://github.com/prkshnarayan" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.sV7tva-728oySeOUL0-vOwHaHa?w=185&h=185&c=7&r=0&o=7&cb=thvnextc1&dpr=1.2&pid=1.7&rm=3" alt="Github" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Prakash_Narayan/" target="blank"><img align="center" src="https://www.bing.com/images/search?view=detailV2&ccid=a1PsyMTj&id=D9F40A32E47E0D39D682D09FED8BA42F5FA5B32E&thid=OIP.a1PsyMTji-Tox74WrAiK-QAAAA&mediaurl=https%3a%2f%2fcdn3d.iconscout.com%2f3d%2ffree%2fthumb%2ffree-leetcode-3d-icon-download-in-png-blend-fbx-gltf-file-formats--leet-code-programming-game-logos-and-brands-pack-icons-9325307.png&exph=450&expw=450&q=leetcode+logo&FORM=IRPRST&ck=4C27F37DFB78B3ED95BFC4878C3A84CA&selectedIndex=11&itb=1" alt="Github" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
