@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jayaprakashbommisetty2580@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZQscCrAa6FblNYo3oWaGjUbTCZTS3sLG/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PC9jvmhmzkiPpjpqygMIB3OB0BwN_p-l/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
