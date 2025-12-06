@@ -1,30 +1,142 @@
-<h1 align="center">Hi 👋, I'm B Jaya Prakash</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=175&color=gradient&text=Bommisetty%20Jaya%20Prakash&reversal=true&fontSize=40&fontAlignY=35&strokeWidth=1&section=header" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prkshnarayan&label=Profile%20views&color=0e75b6&style=flat" alt="prkshnarayan" /> </p>
+<h3 align="center">💻 Full-Stack Developer | Python & Django Developer from India 🇮🇳</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prkshnarayan" alt="prkshnarayan" /></a> </p>
-
-- 🌱 I’m currently learning **Python, Django Framework, PowerBi**
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://prkshnarayan.github.io/Portfolio/)
-
-- 📫 How to reach me **jayaprakashbommisetty2580@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PC9jvmhmzkiPpjpqygMIB3OB0BwN_p-l/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bommisetty-jaya-prakash-2577b8225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bommisetty-jaya-prakash-2577b8225/" height="30" width="40" /></a>
-<a href="https://github.com/prkshnarayan" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.sV7tva-728oySeOUL0-vOwHaHa?w=185&h=185&c=7&r=0&o=7&cb=thvnextc1&dpr=1.2&pid=1.7&rm=3" alt="Github" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Prakash_Narayan/" target="blank"><img align="center" src="https://i.pinimg.com/originals/4f/fd/ac/4ffdac317d7cbdb799731634d51626c7.png" alt="LeetCode" height="30" width="40" /></a>
+<p align="center">
+  <img height="250" src="https://www.bing.com/th/id/OGC.413bedc7cedb100dc413cd47694b74cc?o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fmedia4.giphy.com%2fmedia%2fqgQUggAC3Pfv687qPC%2fgiphy.gif&ehk=8n99EYz55CMT7Ceoj1W7rwPlAKpXagjyDo4K30Lm%2faM%3d" alt="Coding GIF"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prkshnarayan&label=Profile%20Views&color=0eb64f&style=plastic" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prkshnarayan&show_icons=true&locale=en&layout=compact" alt="prkshnarayan" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prkshnarayan&show_icons=true&locale=en" alt="prkshnarayan" /></p>
+# 💫 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prkshnarayan&" alt="prkshnarayan" /></p>
+- 😄 Pronouns: **He/Him**  
+- 🌱 Currently learning **Python, Django, Power BI**  
+- 🔭 Working on full-stack applications  
+- 👨‍💻 All my projects are available here:  
+  👉 <a href="https://prkshnarayan.github.io/Portfolio/">Portfolio Website</a>  
+- 📄 My Resume:  
+  👉 <a href="https://drive.google.com/file/d/1PC9jvmhmzkiPpjpqygMIB3OB0BwN_p-l/view?usp=sharing">Download Resume</a>  
+- 📫 Reach me at **jayaprakashbommisetty2580@gmail.com**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/bommisetty-jaya-prakash-2577b8225/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/prkshnarayan" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Prakash_Narayan/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 🛠️ Tech Stack & Skills
+
+### 💻 Programming Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java" />
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi" />
+</p>
+
+### 🎨 Frontend & UI Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### ☁️ Cloud / DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
+</p>
+
+### 🧰 Developer Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+# 📈 GitHub Stats & Analytics
+
+### 🔹 Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prkshnarayan&theme=tokyonight" />
+</p>
+
+
+
+### 🔹 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prkshnarayan&theme=tokyonight" height="200" />
+</p>
+
+### 🔹 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prkshnarayan&theme=tokyonight&margin-w=5&row=1&column=6&no-bg=true&no-frame=true"/>
+</p>
+
+---
+
+# 🐍 GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanmay-563/tanmay-563/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanmay-563/tanmay-563/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/tanmay-563/tanmay-563/output/github-snake.svg" />
+</picture>
+
+---
+
+# 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prkshnarayan&theme=tokyonight&area=true" width="100%"/>
+</p>
+
+
+
+---
+
+# 🔥 Followers & Stars
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/prkshnarayan?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/prkshnarayan?style=for-the-badge" />
+</p>
+
+---
+
+# 💬 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it’s%20bad." />
+</p>
+
+---
+
+# 😂 Random Dev Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+</p>
+
+---
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&text=“Code%20is%20read%20much%20more%20often%20than%20it’s%20written.”&fontSize=22&fontAlignY=65&section=footer"/>
