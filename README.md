@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=175&color=gradient&text=Bommisetty%20Jaya%20Prakash&reversal=true&fontSize=40&fontAlignY=35&strokeWidth=1&section=header" />
 
-<h3 align="center">💻 Full-Stack Developer | Python & Django Developer from India 🇮🇳</h3>
+<h3 align="center">💻 Full-Stack Developer | Python & Django Developer<h3>
 
 <p align="center">
   <img height="250" src="https://www.bing.com/th/id/OGC.413bedc7cedb100dc413cd47694b74cc?o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fmedia4.giphy.com%2fmedia%2fqgQUggAC3Pfv687qPC%2fgiphy.gif&ehk=8n99EYz55CMT7Ceoj1W7rwPlAKpXagjyDo4K30Lm%2faM%3d" alt="Coding GIF"/>
